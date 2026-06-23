@@ -1,10 +1,17 @@
+# ⚠️ VERSIONES FIJAS Y PROBADAS — NO TOCAR
+# Son las únicas que funcionan juntas: djongo 1.3.7 clava django<=3.1.12,
+# pymongo<=3.11.4 y sqlparse==0.2.4. Subir cualquiera ROMPE todo.
+# Requiere Python 3.9 (NO 3.10/3.12 — djongo se rompe en runtime).
+
 # Framework principal
-Django>=4.2,<5.0
+Django==3.1.12
 # API REST
-djangorestframework>=3.14
+djangorestframework==3.14.0
 # Conexión Django <-> MongoDB
-djongo>=1.3.6
+djongo==1.3.7
 # Driver de MongoDB para Python
-pymongo>=3.12,<4.0
-# Utilidad para parsear SQL (requerido por djongo)
-sqlparse>=0.4.4
+pymongo==3.11.4
+# Utilidad para parsear SQL (clavada por djongo)
+sqlparse==0.2.4
+# Zona horaria (requerida por Django 3.1)
+pytz
