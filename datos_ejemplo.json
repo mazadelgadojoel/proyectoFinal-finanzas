@@ -1,0 +1,91 @@
+{
+    "COLECCION_1_USUARIOS": [
+        {"nombre": "María López García", "correo": "maria.lopez@universidad.edu.mx", "contrasena": "Segura123!", "universidad": "EBC", "carrera": "Administración de Empresas", "semestre": 4, "activo": true},
+        {"nombre": "Carlos Hernández Ruiz", "correo": "carlos.hdez@universidad.edu.mx", "contrasena": "Carlos2024#", "universidad": "EBC", "carrera": "Contaduría Pública", "semestre": 6, "activo": true},
+        {"nombre": "Ana Martínez Soto", "correo": "ana.mtz@universidad.edu.mx", "contrasena": "AnaMtz456$", "universidad": "EBC", "carrera": "Mercadotecnia", "semestre": 2, "activo": true},
+        {"nombre": "José Pérez Vega", "correo": "jose.perez@universidad.edu.mx", "contrasena": "JoseP789!", "universidad": "EBC", "carrera": "Finanzas", "semestre": 8, "activo": true},
+        {"nombre": "Laura Sánchez Díaz", "correo": "laura.sanchez@universidad.edu.mx", "contrasena": "Laura321#", "universidad": "EBC", "carrera": "Derecho", "semestre": 3, "activo": true},
+        {"nombre": "Roberto Gómez Luna", "correo": "roberto.gomez@universidad.edu.mx", "contrasena": "Rober654$", "universidad": "EBC", "carrera": "Ingeniería en Sistemas", "semestre": 5, "activo": true},
+        {"nombre": "Fernanda Torres Ríos", "correo": "fer.torres@universidad.edu.mx", "contrasena": "FerTor12!", "universidad": "EBC", "carrera": "Administración de Empresas", "semestre": 7, "activo": true},
+        {"nombre": "Diego Ramírez Flores", "correo": "diego.ramirez@universidad.edu.mx", "contrasena": "Diego987#", "universidad": "EBC", "carrera": "Economía", "semestre": 4, "activo": true},
+        {"nombre": "Sofía Cruz Mendoza", "correo": "sofia.cruz@universidad.edu.mx", "contrasena": "SofCruz1$", "universidad": "EBC", "carrera": "Comercio Internacional", "semestre": 6, "activo": true},
+        {"nombre": "Miguel Vargas Castro", "correo": "miguel.vargas@universidad.edu.mx", "contrasena": "Migue456!", "universidad": "EBC", "carrera": "Contaduría Pública", "semestre": 2, "activo": true},
+        {"nombre": "Valentina Morales Ortiz", "correo": "vale.morales@universidad.edu.mx", "contrasena": "ValeMo78#", "universidad": "EBC", "carrera": "Mercadotecnia", "semestre": 5, "activo": false},
+        {"nombre": "Andrés Jiménez Paredes", "correo": "andres.jimenez@universidad.edu.mx", "contrasena": "AndJim90$", "universidad": "EBC", "carrera": "Finanzas", "semestre": 3, "activo": true},
+        {"nombre": "Camila Reyes Aguilar", "correo": "camila.reyes@universidad.edu.mx", "contrasena": "CamiRey1!", "universidad": "EBC", "carrera": "Administración de Empresas", "semestre": 1, "activo": true},
+        {"nombre": "Emilio Navarro Solís", "correo": "emilio.navarro@universidad.edu.mx", "contrasena": "EmiNav34#", "universidad": "EBC", "carrera": "Derecho", "semestre": 8, "activo": true},
+        {"nombre": "Isabella Rojas Herrera", "correo": "isa.rojas@universidad.edu.mx", "contrasena": "IsaRoj56$", "universidad": "EBC", "carrera": "Economía", "semestre": 6, "activo": true}
+    ],
+
+    "COLECCION_2_INGRESOS": [
+        {"usuario_id": 1, "categoria": "beca", "monto": 3500.00, "descripcion": "Beca académica semestral EBC", "fecha": "2025-01-15", "recurrente": true},
+        {"usuario_id": 1, "categoria": "mesada", "monto": 2000.00, "descripcion": "Apoyo quincenal de padres", "fecha": "2025-01-01", "recurrente": true},
+        {"usuario_id": 2, "categoria": "trabajo", "monto": 5500.00, "descripcion": "Sueldo medio tiempo en despacho contable", "fecha": "2025-01-30", "recurrente": true},
+        {"usuario_id": 3, "categoria": "mesada", "monto": 3000.00, "descripcion": "Mesada mensual familiar", "fecha": "2025-02-01", "recurrente": true},
+        {"usuario_id": 4, "categoria": "freelance", "monto": 4200.00, "descripcion": "Proyecto de análisis financiero freelance", "fecha": "2025-02-10", "recurrente": false},
+        {"usuario_id": 5, "categoria": "beca", "monto": 2800.00, "descripcion": "Beca de excelencia académica", "fecha": "2025-01-20", "recurrente": true},
+        {"usuario_id": 6, "categoria": "trabajo", "monto": 7000.00, "descripcion": "Trabajo de desarrollador web medio tiempo", "fecha": "2025-02-15", "recurrente": true},
+        {"usuario_id": 7, "categoria": "venta", "monto": 1500.00, "descripcion": "Venta de apuntes y resúmenes digitales", "fecha": "2025-02-05", "recurrente": false},
+        {"usuario_id": 8, "categoria": "mesada", "monto": 2500.00, "descripcion": "Apoyo económico familiar mensual", "fecha": "2025-01-01", "recurrente": true},
+        {"usuario_id": 9, "categoria": "trabajo", "monto": 6000.00, "descripcion": "Prácticas profesionales en empresa exportadora", "fecha": "2025-02-28", "recurrente": true},
+        {"usuario_id": 10, "categoria": "beca", "monto": 4000.00, "descripcion": "Beca deportiva universitaria", "fecha": "2025-01-10", "recurrente": true},
+        {"usuario_id": 11, "categoria": "freelance", "monto": 3200.00, "descripcion": "Diseño de campaña de marketing digital", "fecha": "2025-02-18", "recurrente": false},
+        {"usuario_id": 12, "categoria": "mesada", "monto": 1800.00, "descripcion": "Apoyo semanal de familia", "fecha": "2025-02-01", "recurrente": true},
+        {"usuario_id": 13, "categoria": "otro", "monto": 800.00, "descripcion": "Premio por concurso de emprendimiento", "fecha": "2025-03-01", "recurrente": false},
+        {"usuario_id": 14, "categoria": "trabajo", "monto": 4800.00, "descripcion": "Asistente legal en bufete de abogados", "fecha": "2025-02-28", "recurrente": true}
+    ],
+
+    "COLECCION_3_GASTOS": [
+        {"usuario_id": 1, "categoria": "alimentacion", "monto": 450.00, "descripcion": "Comidas en cafetería universitaria semanal", "fecha": "2025-02-03", "metodo_pago": "efectivo", "necesario": true},
+        {"usuario_id": 1, "categoria": "transporte", "monto": 200.00, "descripcion": "Recarga tarjeta de metro mensual", "fecha": "2025-02-01", "metodo_pago": "tarjeta_debito", "necesario": true},
+        {"usuario_id": 2, "categoria": "material_escolar", "monto": 850.00, "descripcion": "Libros de contabilidad avanzada", "fecha": "2025-01-25", "metodo_pago": "tarjeta_debito", "necesario": true},
+        {"usuario_id": 3, "categoria": "entretenimiento", "monto": 350.00, "descripcion": "Suscripción Netflix y Spotify", "fecha": "2025-02-01", "metodo_pago": "tarjeta_credito", "necesario": false},
+        {"usuario_id": 4, "categoria": "alimentacion", "monto": 1200.00, "descripcion": "Despensa quincenal del departamento", "fecha": "2025-02-15", "metodo_pago": "app_pago", "necesario": true},
+        {"usuario_id": 5, "categoria": "renta", "monto": 4500.00, "descripcion": "Renta mensual de habitación cerca de la universidad", "fecha": "2025-02-01", "metodo_pago": "transferencia", "necesario": true},
+        {"usuario_id": 6, "categoria": "tecnologia", "monto": 15000.00, "descripcion": "Laptop nueva para programación", "fecha": "2025-01-10", "metodo_pago": "tarjeta_credito", "necesario": true},
+        {"usuario_id": 7, "categoria": "ropa", "monto": 900.00, "descripcion": "Ropa formal para presentaciones", "fecha": "2025-02-20", "metodo_pago": "tarjeta_debito", "necesario": false},
+        {"usuario_id": 8, "categoria": "salud", "monto": 600.00, "descripcion": "Consulta médica y medicamentos", "fecha": "2025-02-12", "metodo_pago": "efectivo", "necesario": true},
+        {"usuario_id": 9, "categoria": "transporte", "monto": 1500.00, "descripcion": "Gasolina mensual para auto", "fecha": "2025-02-28", "metodo_pago": "tarjeta_debito", "necesario": true},
+        {"usuario_id": 10, "categoria": "servicios", "monto": 350.00, "descripcion": "Pago de internet del departamento", "fecha": "2025-02-05", "metodo_pago": "transferencia", "necesario": true},
+        {"usuario_id": 11, "categoria": "entretenimiento", "monto": 500.00, "descripcion": "Salida al cine y cena con amigos", "fecha": "2025-02-14", "metodo_pago": "efectivo", "necesario": false},
+        {"usuario_id": 12, "categoria": "material_escolar", "monto": 300.00, "descripcion": "Copias e impresiones del semestre", "fecha": "2025-02-08", "metodo_pago": "efectivo", "necesario": true},
+        {"usuario_id": 13, "categoria": "alimentacion", "monto": 180.00, "descripcion": "Café y snacks diarios en la universidad", "fecha": "2025-02-17", "metodo_pago": "app_pago", "necesario": false},
+        {"usuario_id": 14, "categoria": "servicios", "monto": 250.00, "descripcion": "Recarga de celular y datos móviles", "fecha": "2025-02-10", "metodo_pago": "app_pago", "necesario": true}
+    ],
+
+    "COLECCION_4_PRESUPUESTOS": [
+        {"usuario_id": 1, "categoria": "alimentacion", "monto_limite": 2000.00, "monto_gastado": 1450.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 1, "categoria": "transporte", "monto_limite": 500.00, "monto_gastado": 200.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 2, "categoria": "material_escolar", "monto_limite": 1500.00, "monto_gastado": 850.00, "periodo": "mensual", "fecha_inicio": "2025-01-01", "fecha_fin": "2025-01-31", "alerta_activada": true},
+        {"usuario_id": 3, "categoria": "entretenimiento", "monto_limite": 800.00, "monto_gastado": 350.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 4, "categoria": "alimentacion", "monto_limite": 3000.00, "monto_gastado": 2400.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 5, "categoria": "renta", "monto_limite": 5000.00, "monto_gastado": 4500.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 6, "categoria": "tecnologia", "monto_limite": 2000.00, "monto_gastado": 500.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": false},
+        {"usuario_id": 7, "categoria": "ropa", "monto_limite": 1000.00, "monto_gastado": 900.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 8, "categoria": "salud", "monto_limite": 1000.00, "monto_gastado": 600.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 9, "categoria": "transporte", "monto_limite": 2000.00, "monto_gastado": 1500.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 10, "categoria": "servicios", "monto_limite": 600.00, "monto_gastado": 350.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 11, "categoria": "entretenimiento", "monto_limite": 500.00, "monto_gastado": 500.00, "periodo": "quincenal", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-15", "alerta_activada": true},
+        {"usuario_id": 12, "categoria": "material_escolar", "monto_limite": 400.00, "monto_gastado": 300.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true},
+        {"usuario_id": 13, "categoria": "alimentacion", "monto_limite": 600.00, "monto_gastado": 180.00, "periodo": "semanal", "fecha_inicio": "2025-02-17", "fecha_fin": "2025-02-23", "alerta_activada": false},
+        {"usuario_id": 14, "categoria": "servicios", "monto_limite": 500.00, "monto_gastado": 250.00, "periodo": "mensual", "fecha_inicio": "2025-02-01", "fecha_fin": "2025-02-28", "alerta_activada": true}
+    ],
+
+    "COLECCION_5_RECOMENDACIONES": [
+        {"usuario_id": 1, "tipo": "ahorro", "titulo": "Ahorrar en alimentación", "descripcion": "Llevar lunch preparado en casa al menos 3 días por semana puede ahorrarte hasta $600 mensuales.", "prioridad": "alta", "aplicada": false},
+        {"usuario_id": 1, "tipo": "habito", "titulo": "Regla 50/30/20", "descripcion": "Destina 50% a necesidades, 30% a gustos y 20% a ahorro. Con tus ingresos de $5,500 sería: $2,750 necesidades, $1,650 gustos, $1,100 ahorro.", "prioridad": "alta", "aplicada": false},
+        {"usuario_id": 2, "tipo": "reduccion_gasto", "titulo": "Buscar libros digitales", "descripcion": "Muchos libros de contabilidad están disponibles en versión digital gratuita en la biblioteca virtual de la universidad.", "prioridad": "media", "aplicada": true},
+        {"usuario_id": 3, "tipo": "alerta", "titulo": "Suscripciones innecesarias", "descripcion": "Revisa tus suscripciones mensuales. Podrías compartir cuentas de streaming con compañeros y dividir el costo.", "prioridad": "media", "aplicada": false},
+        {"usuario_id": 4, "tipo": "ahorro", "titulo": "Compras al mayoreo", "descripcion": "Comprar despensa en mercados de mayoreo puede reducir tu gasto en alimentación hasta un 30%.", "prioridad": "alta", "aplicada": true},
+        {"usuario_id": 5, "tipo": "alerta", "titulo": "Presupuesto de renta al límite", "descripcion": "Tu gasto en renta representa el 90% de tu presupuesto. Considera buscar un roommate para dividir gastos.", "prioridad": "alta", "aplicada": false},
+        {"usuario_id": 6, "tipo": "inversion", "titulo": "Fondo de emergencia", "descripcion": "Con tu ingreso de $7,000 podrías ahorrar $1,400 mensuales. En 6 meses tendrás un fondo de emergencia de $8,400.", "prioridad": "media", "aplicada": false},
+        {"usuario_id": 7, "tipo": "reduccion_gasto", "titulo": "Ropa de segunda mano", "descripcion": "Tiendas de ropa de segunda mano y bazares universitarios ofrecen ropa formal a precios mucho más accesibles.", "prioridad": "baja", "aplicada": false},
+        {"usuario_id": 8, "tipo": "habito", "titulo": "Registro diario de gastos", "descripcion": "Registra cada gasto al momento de realizarlo. Los estudios muestran que esto reduce gastos impulsivos hasta un 25%.", "prioridad": "alta", "aplicada": true},
+        {"usuario_id": 9, "tipo": "reduccion_gasto", "titulo": "Considerar transporte público", "descripcion": "El gasto en gasolina de $1,500 mensuales podría reducirse a $400 usando transporte público al menos 3 días por semana.", "prioridad": "alta", "aplicada": false},
+        {"usuario_id": 10, "tipo": "ahorro", "titulo": "Aprovechar descuentos estudiantiles", "descripcion": "Con tu credencial de estudiante puedes obtener descuentos en servicios, transporte y entretenimiento.", "prioridad": "media", "aplicada": true},
+        {"usuario_id": 11, "tipo": "alerta", "titulo": "Presupuesto de entretenimiento agotado", "descripcion": "Has alcanzado el 100% de tu presupuesto quincenal de entretenimiento. Considera actividades gratuitas.", "prioridad": "alta", "aplicada": false},
+        {"usuario_id": 12, "tipo": "habito", "titulo": "Método de los sobres", "descripcion": "Separa tu dinero en sobres físicos o virtuales por categoría. Cuando un sobre se vacía, no gastas más en esa categoría.", "prioridad": "media", "aplicada": false},
+        {"usuario_id": 13, "tipo": "reduccion_gasto", "titulo": "Café casero vs cafetería", "descripcion": "Preparar café en casa en lugar de comprarlo diario te ahorra aproximadamente $1,200 al mes.", "prioridad": "baja", "aplicada": false},
+        {"usuario_id": 14, "tipo": "inversion", "titulo": "Cuenta de ahorro con rendimientos", "descripcion": "Abre una cuenta de ahorro digital que ofrezca rendimientos. Con $500 mensuales de ahorro, en un año tendrías más de $6,200.", "prioridad": "media", "aplicada": false}
+    ]
+}

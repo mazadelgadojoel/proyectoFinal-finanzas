@@ -1,0 +1,10 @@
+# Framework principal
+Django>=4.2,<5.0
+# API REST
+djangorestframework>=3.14
+# Conexión Django <-> MongoDB
+djongo>=1.3.6
+# Driver de MongoDB para Python
+pymongo>=3.12,<4.0
+# Utilidad para parsear SQL (requerido por djongo)
+sqlparse>=0.4.4
